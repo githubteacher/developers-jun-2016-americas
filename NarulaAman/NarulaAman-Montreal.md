@@ -2,4 +2,4 @@
 
 ### Restaurants
 
-### Things to do
+### Things to do in Montreal
