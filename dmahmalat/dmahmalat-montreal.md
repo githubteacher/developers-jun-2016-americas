@@ -1,5 +1,6 @@
 # Montreal
 
-### Restos !
+### Restos
+- Sushi :dog:
 
 ### Things to do
