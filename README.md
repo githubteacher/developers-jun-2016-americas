@@ -5,6 +5,8 @@
   - Briana, :octocat: [@brianamarie](http://github.com/brianamarie)
 - On Gitter:
   - Cynthia, :octocat: [@crichID](http://github.com/crichid)
+  - Matt, :octocat: [@beardofedu](http://github.com/beardofedu)
+  - Eric, :octocat: [@hollenberry](http://github.com/hollenberry)
 - :email: [services@github.com](mailto:services@github.com)
 
 ### Before We Begin
