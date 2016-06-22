@@ -4,6 +4,6 @@
 
 ### Things to do
 
-### Bars :beers
+### Bars 
 Aer   
 Cafe Leopold
