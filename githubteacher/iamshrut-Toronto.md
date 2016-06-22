@@ -1,3 +1,3 @@
-# Toronto City
+#Toronto City
 
-##Restaurants - Anjappar
+##Restaurants
