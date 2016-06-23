@@ -1,6 +1,6 @@
-# Los Angeles City
+### Los Angeles City
 
-## Restaurants
+### Restaurants
 
 ### Things to do
 
